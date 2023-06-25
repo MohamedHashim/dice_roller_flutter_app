@@ -1,4 +1,4 @@
-# flutter_test_app
+# Dice_roller_flutter_app
 
 A new Flutter project.
 
