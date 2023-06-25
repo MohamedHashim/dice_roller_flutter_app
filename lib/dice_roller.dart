@@ -9,6 +9,7 @@ class DiceRoller extends StatefulWidget {
   }
 }
 
+// class starts with _ isa private class and onlu usable in this file
 class _DiceRoller extends State<DiceRoller> {
   var diceImg = 'assets/images/dice-1.png';
   void onClickButton() {
